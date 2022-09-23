@@ -39,6 +39,8 @@
     git remote -v
         - Retorna os repositórios remotos vinculados
 
+    git rm --cached script.js - Remove o arquivo script.js do stage;
+
 **Desvincular um repositório remoto**
 
 	git remote rm <nome>
