@@ -2,6 +2,7 @@
     *git config --global user.name "Nome do usuario"*
     *git config --global user.email e-mail@exemplo.com*
         - identificação, para que possa sinalizar o autor das mudanças realizadas no repositório.
+
 **REPOSITÓRIO GIT**
 
 - Local onde as informações e os objetos do projeto serão mantidos
