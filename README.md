@@ -1,6 +1,7 @@
 **CONTROLE DE VERSÕES DO CÓDIGO**
-    *git config --global user.name "Nome do usuario"*
-    *git config --global user.email e-mail@exemplo.com*
+
+    git config --global user.name "Nome do usuario"
+    git config --global user.email e-mail@exemplo.com
         - identificação, para que possa sinalizar o autor das mudanças realizadas no repositório.
 
 **REPOSITÓRIO GIT**
