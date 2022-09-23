@@ -9,7 +9,7 @@
 - Local onde as informações e os objetos do projeto serão mantidos
 
     git init
-        - Inicia um repositório git na raiz do projeto
+    	- Inicia um repositório git na raiz do projeto
 
     STAGE
         - Nele são adicionadas as alterações do código
