@@ -10,6 +10,7 @@
 
     git init
         - Inicia um repositório git na raiz do projeto
+
     STAGE
         - Nele são adicionadas as alterações do código
         - Este é apenas um intermediário, as alterações ainda não estão adicionadas ao repositóro
