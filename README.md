@@ -33,6 +33,7 @@
             - descarta a branch e retorna para a versão principal
 
 **VINCULO AO GITHUB**
+
     $ git remote add origin https://meu-endereco.com/meu-projeto.git
         - Vincula o repositório local ao remoto
     git remote -v
