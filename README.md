@@ -16,7 +16,7 @@
             git add <arquivo>
             git add .
 
-    git comiit - Adiciona os arquivos ao repositório
+    git commit - Adiciona os arquivos ao repositório
             git commit -m "Mensagem"
                 - O parãmetro *-m* permite escrever uma mensagem que descreve o que foi feito
                 - O commit irá gerar um código e este códgo identifica a versão
