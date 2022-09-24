@@ -21,6 +21,14 @@
                 - O parãmetro *-m* permite escrever uma mensagem que descreve o que foi feito
                 - O commit irá gerar um código e este códgo identifica a versão
     git diff - Mostra as mudanças feitas no arquivo
+    
+    git checkout -b <nome da branch>
+    	- Cria uma nova branch e altera para a criada
+	
+	git checkout
+		- Altera a branch
+	git merge <nome da branch>
+		- "Puxa uma branch"
 
     BRANCH
         - Ramificação do projeto principal
