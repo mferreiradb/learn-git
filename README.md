@@ -8,13 +8,16 @@
 
 - Local onde as informações e os objetos do projeto serão mantidos
 
-    git init - Inicia um repositório git na raiz do projeto
+ *git init*
+ 
+     - Inicia um repositório git na raiz do projeto
 
-    STAGE
-        - Nele são adicionadas as alterações do código
-        - Este é apenas um intermediário, as alterações ainda não estão adicionadas ao repositóro
-            git add <arquivo>
-            git add .
+ *STAGE*
+ 
+    - Nele são adicionadas as alterações do código
+    - Este é apenas um intermediário, as alterações ainda não estão adicionadas ao repositóro
+        git add <arquivo>
+        git add .
 
     git commit - Adiciona os arquivos ao repositório
             git commit -m "Mensagem"
