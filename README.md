@@ -8,6 +8,7 @@
 
 - Local onde as informações e os objetos do projeto serão mantidos
 	- Iniciar um repositório git na raiz do projeto
+
  		git init
 
  *STAGE*
