@@ -7,10 +7,8 @@
 **REPOSITÓRIO GIT**
 
 - Local onde as informações e os objetos do projeto serão mantidos
-
- *git init*
- 
-     - Inicia um repositório git na raiz do projeto
+	- Iniciar um repositório git na raiz do projeto
+ 		git init
 
  *STAGE*
  
