@@ -50,9 +50,9 @@
         * Novas funcionalidades
     git branch <nome>
 
-*git checkout master*
+*git checkout [nome da branch]*
 
-    - descarta a branch e retorna para a versão principal
+    - Altera para a branch nomeada
 
 **VINCULO AO GITHUB**
 
