@@ -55,13 +55,26 @@
 
 **VINCULO AO GITHUB**
 
-    $ git remote add origin https://meu-endereco.com/meu-projeto.git
-        - Vincula o repositório local ao remoto
+- Vincula o repositório local ao remoto
+
+    git remote add origin https://meu-endereco.com/meu-projeto.git
+
+- Retorna os repositórios remotos vinculados
+
     git remote -v
-        - Retorna os repositórios remotos vinculados
 
-    git rm --cached script.js - Remove o arquivo script.js do stage;
+- Remove determinado arquivo do stage;
 
-**Desvincular um repositório remoto**
+    git rm --cached script.js
+
+- Desvincular um repositório remoto
 
 	git remote rm <nome>
+
+- Deletar branch local
+
+	git branch -d <branch>
+
+- Deletar branch remota
+	
+	git push origin --delete <branch>
