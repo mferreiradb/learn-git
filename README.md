@@ -57,24 +57,24 @@
 
 - Vincula o repositório local ao remoto
 
-    git remote add origin https://meu-endereco.com/meu-projeto.git
+		git remote add origin https://meu-endereco.com/meu-projeto.git
 
 - Retorna os repositórios remotos vinculados
 
-    git remote -v
+		git remote -v
 
 - Remove determinado arquivo do stage;
 
-    git rm --cached script.js
+		git rm --cached script.js
 
 - Desvincular um repositório remoto
 
-	git remote rm <nome>
+		git remote rm <nome>
 
 - Deletar branch local
 
-	git branch -d <branch>
+		git branch -d <branch>
 
 - Deletar branch remota
 	
-	git push origin --delete <branch>
+		git push origin --delete <branch>
